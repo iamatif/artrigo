@@ -1,0 +1,2 @@
+import {defineConfig} from 'vite';import react from '@vitejs/plugin-react';
+export default defineConfig({plugins:[react()],define:{__ARTRIGO_SITE_URL__:JSON.stringify(process.env.SITE_URL||(process.env.VERCEL_PROJECT_PRODUCTION_URL?'https://'+process.env.VERCEL_PROJECT_PRODUCTION_URL:'https://artrigo.vercel.app'))},build:{rollupOptions:{output:{manualChunks(id){if(id.includes('/src/locales/'))return 'translations';if(id.includes('/node_modules/'))return 'vendor';}}}}});

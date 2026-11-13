@@ -1,0 +1,197 @@
+{
+  "references": [
+    "https://devsinc.com/",
+    "https://codedistrict.com/"
+  ],
+  "assets": [
+    {
+      "url": "https://devsinc.com/_astro/home-hero-slide1-bg.DFSa8e0n.webp",
+      "name": "hero-ai.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/home-hero-dynamics-bg.CyIMsx7Z.webp",
+      "name": "hero-dynamics.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/art-ribbon.D0DydemZ_Z1LFlgF.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "ribbon.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/csa.BtyaepAf_2gjJdG.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "project-team.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/hbcl-cover.BiX6ZIHo_6xrk0.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "project-commerce.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/cse.Co9E6igr_1wBT7r.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "project-data.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/art-gradient.Bv8c-0rQ_ITVTk.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "gradient.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/partner-microsoft.DWIe0j7f_1tOStT.svg?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "microsoft.svg"
+    },
+    {
+      "url": "https://devsinc.com/_astro/logo-salesforce-blue.q64SrsrV_mkEMy.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "salesforce.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/logo-shopify.ZkVIiI0C_sV7EW.svg?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "shopify.svg"
+    },
+    {
+      "url": "https://devsinc.com/_astro/logo-aws.DhK2i29B_1Myy7d.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "aws.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/art-gradient.Bv8c-0rQ_1dQkAz.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "gradient-alt.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/episode-beyond-the-code-1.D87guwLn_1v5SUW.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "podcast-umar.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/JunaidRehmat.BhMXdCA3_HrKjt.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "podcast-junaid.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/podcast-irfan-malik.ohPUZa9V_Z1oBKU5.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "podcast-irfan.webp"
+    },
+    {
+      "url": "https://devsinc.com/_astro/episode-yasir-barkat.DspS5KM-_b8Uts.webp?dpl=dpl_89NXSgWG8SMEPofcx9ULTHVDsxwE",
+      "name": "podcast-yasir.webp"
+    },
+    {
+      "name": "services/ai-network.jpg",
+      "url": "https://images.unsplash.com/photo-1644088379091-d574269d422f",
+      "sourcePage": "https://unsplash.com/photos/xuTJZ7uD7PI",
+      "creator": "Conny Schneider",
+      "license": "Unsplash License; reference photography, not an Artrigo team portrait"
+    },
+    {
+      "name": "services/team-workshop.jpg",
+      "url": "https://images.unsplash.com/photo-1573167507387-6b4b98cb7c13",
+      "sourcePage": "https://unsplash.com/photos/Q80LYxv_Tbs",
+      "creator": "Christina @ wocintechchat.com",
+      "license": "Unsplash License; reference photography, not an Artrigo team portrait"
+    },
+    {
+      "name": "services/engineer-work.jpg",
+      "url": "https://images.unsplash.com/photo-1573166364766-f30bab28e9d1",
+      "sourcePage": "https://unsplash.com/photos/55EpT8edO8Q",
+      "creator": "Christina @ wocintechchat.com",
+      "license": "Unsplash License; reference photography, not an Artrigo team portrait"
+    }
+  ],
+  "technologyIcons": [
+    {
+      "name": "docker",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/docker.svg"
+    },
+    {
+      "name": "python",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/python.svg"
+    },
+    {
+      "name": "nextdotjs",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nextdotjs.svg"
+    },
+    {
+      "name": "tailwindcss",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/tailwindcss.svg"
+    },
+    {
+      "name": "git",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/git.svg"
+    },
+    {
+      "name": "nodedotjs",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/nodedotjs.svg"
+    },
+    {
+      "name": "googlecloud",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/googlecloud.svg"
+    },
+    {
+      "name": "postgresql",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/postgresql.svg"
+    },
+    {
+      "name": "kubernetes",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/kubernetes.svg"
+    },
+    {
+      "name": "react",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/react.svg"
+    },
+    {
+      "name": "graphql",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/graphql.svg"
+    },
+    {
+      "name": "redis",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/redis.svg"
+    },
+    {
+      "name": "flutter",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/flutter.svg"
+    },
+    {
+      "name": "typescript",
+      "url": "https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/typescript.svg"
+    }
+  ],
+  "caseStudyOriginalImages": [
+    {
+      "file": "project-team.webp",
+      "url": "https://devsinc.com/_astro/csa.BtyaepAf_M833N.webp"
+    },
+    {
+      "file": "project-commerce.webp",
+      "url": "https://devsinc.com/_astro/hbcl-cover.BiX6ZIHo_Z14EDxJ.webp"
+    },
+    {
+      "file": "project-data.webp",
+      "url": "https://devsinc.com/_astro/cse.Co9E6igr_Z1F65ph.webp"
+    }
+  ],
+  "testimonialSources": [
+    {
+      "publisher": "Orizon",
+      "url": "https://www.orizon.co/",
+      "people": [
+        "Dean Bloembergen",
+        "Bryan Johnson",
+        "FOLIO XXIV Team"
+      ]
+    }
+  ],
+  "designReferences": [
+    "https://www.orizon.co/"
+  ],
+  "serviceTestimonialMedia": {
+    "publisher": "Orizon",
+    "source": "https://www.orizon.co/",
+    "disclosure": "Reference-agency reviews and videos; not Artrigo client endorsements",
+    "videoSources": [
+      "https://media.orizon.co/Testimonial/Vivodyne-testimonial.mp4",
+      "https://media.orizon.co/Testimonial/Userway-testimonial.mp4"
+    ],
+    "captionSources": [
+      "https://dl.dropboxusercontent.com/scl/fi/o80sq23xre5yzuiytlpky/Vivodyne.mp4.vtt?rlkey=lqry5vfiz94lqkh7jxjn14txb&st=a1ttw4py&raw=1",
+      "https://dl.dropboxusercontent.com/scl/fi/xjxu0l811offz4erdj1uw/Userway.mp4.vtt?rlkey=lby2tud51aa8eylmq9wcbqmpq&st=bec93ue2&raw=1"
+    ],
+    "people": [
+      "Dean Bloembergen",
+      "Bryan Johnson",
+      "David Kalt"
+    ]
+  }
+}
