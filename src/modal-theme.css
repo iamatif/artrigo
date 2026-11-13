@@ -1,0 +1,41 @@
+/* Shared navy dialog surface and slim blue scrollbars. */
+:root{scrollbar-color:#577fae #0a2131;scrollbar-width:thin}
+dialog{width:min(860px,calc(100% - 40px));max-width:none;max-height:90dvh;overflow-y:auto;overflow-x:hidden;overscroll-behavior:contain;scrollbar-gutter:stable;border:1px solid #8db9ee40;border-radius:22px;background:radial-gradient(ellipse at 100% 0,#173e6a 0,transparent 58%),#0a2234;color:#ecf4ff;color-scheme:dark;box-shadow:0 32px 110px #00101dcc;scrollbar-width:thin;scrollbar-color:#6a97ca #0a2131}
+dialog:has(.case-study-dialog){width:min(980px,calc(100% - 40px))}
+dialog:has(.case-dialog-directory){width:min(900px,calc(100% - 40px))}
+dialog::backdrop{background:#03121bca;backdrop-filter:blur(12px)}
+.dialog-content{padding:52px}
+.dialog-content h2,.dialog-content h3,.dialog-content strong{color:#eff6ff}
+.dialog-content>.kicker,.dialog-content .case-study-dialog>.kicker{color:#8fb9ec}
+.dialog-content>p:not(.kicker),.dialog-content .article-section p,.dialog-content .case-summary,.dialog-content .case-study-dialog>ul>li,.dialog-content .dialog-callout p,.dialog-content .case-publisher{color:#b5c9df}
+.dialog-content label{color:#d4e3f4}
+.dialog-content small{color:#9eb6cf}
+.dialog-content input,.dialog-content select,.dialog-content textarea{background:#081d2f;border:1px solid #789cc44d;color:#edf5ff;border-radius:9px;transition:border-color .2s,box-shadow .2s;scrollbar-color:#6a97ca #0a2131;scrollbar-width:thin}
+.dialog-content input::placeholder,.dialog-content textarea::placeholder{color:#8fa9c5;opacity:1}
+.dialog-content input:focus,.dialog-content select:focus,.dialog-content textarea:focus{outline:none;border-color:#86b6f5;box-shadow:0 0 0 3px #7fb1f524}
+.dialog-content select option{background:#0b253a;color:#ecf4ff}
+.dialog-close{z-index:2;background:#163b58;border:1px solid #91baf14d;color:#dcecff;transition:background .2s,transform .2s}
+.dialog-close:hover{background:#285779;transform:rotate(90deg)}
+.dialog-close:focus-visible{outline:2px solid #9ac4ff;outline-offset:3px}
+.dialog-content .dialog-callout,.dialog-content .contact-context,.dialog-content .form-success{background:#173c5a70;border:1px solid #86b5ed33;border-radius:12px}
+.dialog-content .contact-context>span{color:#a8c4e5}
+.dialog-content .contact-context>strong{color:#d2e7ff}
+.dialog-content .dialog-service-icon{background:#1c4567;color:#99c4ff}
+.dialog-content .dialog-list>li,.dialog-content .case-dialog-metrics,.dialog-content .case-dialog-metrics>div{border-color:#8eb7e733}
+.dialog-content .dialog-list svg,.dialog-content .case-dialog-metrics strong{color:#8dbbfa}
+.dialog-content .case-dialog-metrics span{color:#b4cbe3}
+.dialog-content .case-dialog-directory>button{border-color:#8eb7e733;background:#0e2d46}
+.dialog-content .case-dialog-directory>button:hover{background:#1b4161}
+.dialog-content .case-dialog-directory small{color:#a6c4e8}
+.dialog-content .case-dialog-directory strong{color:#e1edff}
+.dialog-content .dialog-platform{background:#f4f8ff;padding:8px 12px;border-radius:8px;height:56px}
+.dialog-content .form-success p{color:#bed3eb}
+.dialog-content .form-success>.btn.dark{background:#c5ddff;color:#0b2941}
+.dialog-content .form-error{background:#482e3d;border-color:#d792a4;color:#ffe1e9}
+.dialog-content .form-error a{color:#ffe1e9;text-decoration:underline;overflow-wrap:anywhere}
+::-webkit-scrollbar{width:10px;height:10px}
+::-webkit-scrollbar-track{background:#0a2131}
+::-webkit-scrollbar-thumb{background:#577fae;border:2px solid #0a2131;border-radius:20px}
+::-webkit-scrollbar-thumb:hover{background:#8ab7ef}
+@media(max-width:600px){dialog,dialog:has(.case-study-dialog),dialog:has(.case-dialog-directory){width:calc(100% - 24px);max-height:92dvh;border-radius:16px}.dialog-content{padding:48px 22px 28px}.dialog-content>h2{padding-inline-end:20px}.dialog-content .form-row{grid-template-columns:1fr}}
+@media(prefers-reduced-motion:reduce){.dialog-close{transition:none}.dialog-close:hover{transform:none}}
