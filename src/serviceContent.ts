@@ -1,7 +1,8 @@
 import {additionalServiceContent} from './additionalServiceContent';
 export const serviceSlugs=["ai-agent-development","application-engineering","ai-data-systems","website-development","mobile-app-development","cloud-infrastructure","product-studio","technology-advisory","dedicated-engineering-teams","solution-implementation","ecommerce-engineering","quality-security","game-immersive-experiences"] as const;
 export type ServicePageId=typeof serviceSlugs[number];
-export type PageId='home'|ServicePageId;
+export type PageId='home'|ServicePageId|import('./sitePageContent').SitePageId;
+export const isServicePage=(page:PageId):page is ServicePageId=>(serviceSlugs as readonly string[]).includes(page);
 export interface ServicePageContent{name:string;eyebrow:string;title:string;accent:string;intro:string;photo:string;photoAlt:string;heroNote:string;primary:string;secondary:string;principles:readonly string[];sectionIntro:string;description:string;description2:string;capabilityHeading:string;capabilities:readonly {title:string;body:string;points:readonly string[]}[];usecaseHeading:string;usecases:readonly {title:string;body:string;image:string;alt:string}[];processHeading:string;process:readonly {title:string;body:string;deliverables:readonly string[]}[];techHeading:string;techIntro:string;tech:readonly string[];faqHeading:string;faqs:readonly {q:string;a:string}[];closingTitle:string;closingBody:string}
 const baseServiceContent={
 'ai-agent-development':{
