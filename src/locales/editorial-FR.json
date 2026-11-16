@@ -1,0 +1,382 @@
+{
+  "intelligent-automation": {
+    "name": "Automatisation intelligente",
+    "title": "Moins de relances. Plus de travail utile.",
+    "intro": "Reliez les échanges entre les personnes, les informations et les outils métier. Artrigo vous aide à choisir des automatisations utiles, à en définir les limites et à garder les exceptions visibles.",
+    "heading": "Suivez le travail, pas les effets de mode.",
+    "items": [
+      [
+        "Repérer les points de friction",
+        "Identifiez les échanges répétitifs, les doubles saisies et les décisions en attente d’informations manquantes. Comprenez le coût du processus actuel avant de choisir un outil d’automatisation."
+      ],
+      [
+        "Définir les règles",
+        "Distinguez les étapes prévisibles des décisions qui demandent du discernement. Définissez les autorisations, le traitement des exceptions et le moment où une personne doit vérifier une action."
+      ],
+      [
+        "Rendre les progrès observables",
+        "Suivez les opérations réussies, les exceptions et l’effort de vérification. Commencez par un processus circonscrit et utilisez les retours de terrain pour décider de ce qui mérite d’être étendu."
+      ]
+    ]
+  },
+  "legacy-modernization": {
+    "name": "Modernisation des systèmes existants",
+    "title": "Avancer sans repartir de zéro.",
+    "intro": "Vos systèmes existants portent les connaissances de votre entreprise. Modernisez les éléments qui freinent vos progrès tout en gardant une vue sur les activités et les informations essentielles.",
+    "heading": "Un pont entre aujourd’hui et demain.",
+    "items": [
+      [
+        "Comprendre l’existant",
+        "Cartographiez les dépendances des applications, les contrats d’intégration et les parcours dont les utilisateurs dépendent. Identifiez les risques qu’une réécriture ne suffirait pas à éliminer."
+      ],
+      [
+        "Organiser une transition maîtrisée",
+        "Introduisez une nouvelle fonctionnalité ciblée aux côtés des systèmes existants. Convenez des responsabilités sur les données, des contrôles de compatibilité et d’une procédure de retour arrière avant de transférer un processus."
+      ],
+      [
+        "Retirer les anciens composants en confiance",
+        "Transférez le trafic progressivement, rapprochez les données et observez les usages réels. Ne désactivez les anciens composants que lorsque les responsables opérationnels peuvent valider leur remplacement."
+      ]
+    ]
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "title": "Une relation client. Une vision d’ensemble.",
+    "intro": "Réunissez les ventes, le service et les informations clients dans une expérience CRM que vos équipes peuvent réellement utiliser. Partez du processus de travail, puis adaptez Salesforce à ses besoins.",
+    "heading": "Relier chaque passage de relais.",
+    "items": [
+      [
+        "Des ventes avec du contexte",
+        "Définissez les responsables des prospects, les étapes des opportunités et les informations nécessaires à un prochain échange utile. Reliez l’activité du CRM à la façon dont votre équipe vend."
+      ],
+      [
+        "Un service dans la continuité",
+        "Donnez aux équipes d’assistance accès à l’historique client pertinent et à un routage clair des demandes. Réduisez le besoin de reconstituer la même histoire à partir d’outils déconnectés."
+      ],
+      [
+        "Une intégration aux responsabilités claires",
+        "Prévoyez le rapprochement des enregistrements, les contrôles d’accès et les limites de synchronisation. Gardez des définitions de reporting et des responsabilités claires à mesure que Salesforce se connecte à d’autres systèmes."
+      ]
+    ]
+  },
+  "microsoft-dynamics-365": {
+    "name": "Microsoft Dynamics 365",
+    "title": "Une entreprise. Moins de décisions déconnectées.",
+    "intro": "Reliez les processus clients et opérationnels avec Microsoft Dynamics 365. Facilitez le suivi des données, des responsabilités et des décisions entre les services.",
+    "heading": "Comprendre comment l’entreprise s’articule.",
+    "items": [
+      [
+        "Du client aux opérations",
+        "Reliez les informations sur les engagements commerciaux au travail que les équipes de réalisation doivent effectuer. Définissez quel système métier est responsable de chaque enregistrement important."
+      ],
+      [
+        "Des finances avec du contexte",
+        "Planifiez les passages de relais entre les transactions, les approbations et le reporting. Harmonisez les règles métier avant d’automatiser la circulation des informations."
+      ],
+      [
+        "Une mise en œuvre réfléchie",
+        "Choisissez un premier périmètre ciblé, validez des scénarios réels et préparez les équipes opérationnelles. L’intégration et l’adoption méritent autant d’attention que la configuration."
+      ]
+    ]
+  },
+  "microsoft-power-platform": {
+    "name": "Microsoft Power Platform",
+    "title": "De petits outils. Des changements utiles.",
+    "intro": "Transformez un problème métier récurrent en une application, un flux ou une solution de reporting ciblée. Power Platform donne le meilleur de lui-même avec des responsabilités claires et une gouvernance adaptée.",
+    "heading": "Concevoir un outil autour de la tâche.",
+    "items": [
+      [
+        "Power Apps",
+        "Créez une interface ciblée pour les demandes, les inspections ou les approbations. Validez l’expérience avec les personnes qui effectuent le travail avant d’élargir le périmètre."
+      ],
+      [
+        "Power Automate",
+        "Reliez les événements et les passages de relais en prévoyant explicitement le traitement des exceptions. Examinez les autorisations, les limites des connecteurs et les responsabilités d’assistance avant qu’un flux ne devienne essentiel."
+      ],
+      [
+        "Power BI",
+        "Réunissez des indicateurs définis en commun dans une vue de reporting partagée. Établissez les définitions des données et les attentes de mise à jour pour que le tableau de bord serve de référence commune aux équipes."
+      ]
+    ]
+  },
+  "shopify-ecommerce": {
+    "name": "Shopify et commerce en ligne",
+    "title": "Une boutique qui fonctionne au-delà de sa vitrine.",
+    "intro": "Reliez la découverte des produits, le paiement et les opérations qui suivent une commande. Artrigo conçoit les expériences Shopify autour de vos clients et des systèmes qui les servent.",
+    "heading": "Prendre en compte toute la commande.",
+    "items": [
+      [
+        "Découverte des produits",
+        "Aidez les clients à trouver le bon produit grâce à une structure utile, des contenus clairs et une navigation adaptée à tous les écrans. Définissez les besoins de la boutique avant d’ajouter de la complexité."
+      ],
+      [
+        "Un parcours de paiement réfléchi",
+        "Examinez les parcours de paiement, de livraison et de compte sur de vrais appareils. Facilitez les décisions d’achat et testez les exceptions qui interrompent une commande."
+      ],
+      [
+        "Les opérations après l’achat",
+        "Reliez les commandes aux stocks, à la préparation et à l’expédition, ainsi qu’à l’assistance client. Prévoyez la synchronisation, les nouvelles tentatives et les responsabilités afin que l’expérience reste fiable après le paiement."
+      ]
+    ]
+  },
+  "financial-services": {
+    "name": "Services financiers",
+    "title": "La confiance au cœur de chaque interaction.",
+    "intro": "La finance numérique repose sur des parcours clairs et une ingénierie rigoureuse. Planifiez ensemble les expériences clients, les processus opérationnels et les limites d’accès aux données.",
+    "heading": "Du premier contact à l’action éclairée.",
+    "items": [
+      [
+        "Une première étape compréhensible",
+        "Clarifiez les exigences d’entrée en relation, l’avancement et les prochaines actions. Examinez la gestion des identités, des accès et des documents au regard des exigences de votre environnement opérationnel."
+      ],
+      [
+        "Une décision traçable",
+        "Donnez aux équipes le contexte nécessaire pour examiner une demande ou une exception. Conservez l’historique des décisions et définissez quand une personne doit autoriser l’étape suivante."
+      ],
+      [
+        "Une vision opérationnelle fiable",
+        "Reliez les informations pertinentes sans masquer leur source ni leur responsable. Planifiez les accès, la surveillance et le rapprochement des données en tenant compte des conséquences d’un échec du processus."
+      ]
+    ]
+  },
+  "healthcare": {
+    "name": "Santé",
+    "title": "La technologie centrée sur les personnes.",
+    "intro": "Aidez les patients, les équipes soignantes et le personnel administratif à trouver ce dont ils ont besoin. Concevez les parcours autour des réalités des soins et des systèmes existants.",
+    "heading": "Clarifier la prochaine étape.",
+    "items": [
+      [
+        "Accès des patients",
+        "Aidez chacun à comprendre les informations requises, le statut d’une demande et la suite du parcours. Tenez compte de l’accessibilité et du contexte dans lequel le patient utilise le service."
+      ],
+      [
+        "Coordination des soins",
+        "Reliez les passages de relais entre les personnes et les systèmes. Définissez qui voit quelles informations, qui est responsable d’une tâche et comment rendre visible une réponse manquante."
+      ],
+      [
+        "Une circulation responsable des informations",
+        "Cartographiez les exigences d’accès, de conservation et d’intégration des données avant la mise en œuvre. Examinez les obligations applicables en matière de santé et de confidentialité avec les spécialistes responsables."
+      ]
+    ]
+  },
+  "retail-ecommerce": {
+    "name": "Commerce de détail et commerce en ligne",
+    "title": "Un client. De nombreux moments décisifs.",
+    "intro": "Abordez ensemble les achats en ligne et les opérations du commerce de détail. Reliez les attentes des clients aux informations produits, aux stocks et à l’exécution des commandes.",
+    "heading": "Relier les étapes entre les canaux.",
+    "items": [
+      [
+        "Découvrir en confiance",
+        "Gardez des informations produits claires et utiles à chaque point de contact. Alignez la navigation, le contenu et la disponibilité sur les questions auxquelles les clients cherchent des réponses."
+      ],
+      [
+        "Acheter sans incertitude",
+        "Examinez le panier, le paiement et les choix de livraison comme un seul parcours. Testez les différences entre appareils, les articles indisponibles et les transactions interrompues avant une mise en production."
+      ],
+      [
+        "Tenir la promesse",
+        "Reliez le statut des commandes et les variations de stock aux équipes chargées de leur exécution. Rendez les exceptions visibles suffisamment tôt pour qu’une personne puisse agir."
+      ]
+    ]
+  },
+  "logistics-supply-chain": {
+    "name": "Logistique et chaîne d’approvisionnement",
+    "title": "Savoir ce qui avance. Voir ce qui vous attend.",
+    "intro": "Transformez les événements opérationnels en une vision plus claire des commandes, des expéditions et des responsabilités. Organisez la visibilité autour des décisions quotidiennes de vos équipes.",
+    "heading": "Rendre les passages de relais visibles.",
+    "items": [
+      [
+        "Un historique partagé des événements",
+        "Convenez des événements importants pour les entrepôts, les transporteurs et les systèmes clients. Préservez les horodatages, les sources et la signification de chaque statut opérationnel."
+      ],
+      [
+        "Des exceptions avec un responsable",
+        "Faites ressortir l’expédition ou la tâche qui demande une intervention, au-delà d’un simple graphique supplémentaire. Définissez les responsabilités d’escalade, de prise en compte et de rétablissement."
+      ],
+      [
+        "Une planification connectée",
+        "Réunissez les commandes, les capacités et les stocks dans une même vue de planification. Commencez par des données fiables et déterminez dans quels cas une recommandation demande un jugement humain."
+      ]
+    ]
+  },
+  "technology-saas": {
+    "name": "Technologie et SaaS",
+    "title": "Construire un produit qui laisse place à la suite.",
+    "intro": "Reliez l’expérience produit, les besoins commerciaux et les choix d’ingénierie. Artrigo aide les équipes SaaS à créer des fonctionnalités ciblées tout en gardant les opérations en vue.",
+    "heading": "Penser au-delà de la prochaine fonctionnalité.",
+    "items": [
+      [
+        "Un périmètre produit clair",
+        "Définissez le public, la tâche à accomplir et la plus petite fonctionnalité utile. Validez les hypothèses incertaines avant d’allonger la liste des fonctionnalités."
+      ],
+      [
+        "Une plateforme fiable",
+        "Planifiez avec soin les limites entre clients, les accès et les contrats d’intégration. Intégrez les responsabilités de mise en production, de surveillance et de rétablissement dans l’architecture du produit."
+      ],
+      [
+        "Une prochaine version éclairée",
+        "Utilisez les retours sur le produit et les données opérationnelles pour hiérarchiser les améliorations. Distinguez les demandes des clients du problème sous-jacent qu’ils cherchent à résoudre."
+      ]
+    ]
+  },
+  "project-stories": {
+    "name": "Récits de projets",
+    "title": "Que pourrait rendre possible un meilleur système ?",
+    "intro": "Explorez trois exemples de briefs de projet. Ces scénarios montrent comment un problème métier peut devenir une discussion d’ingénierie ciblée ; il ne s’agit pas d’études de cas de projets clients réalisés.",
+    "heading": "Ouvrir un brief. Examiner les décisions.",
+    "items": [
+      [
+        "Un centre d’assistance avec du contexte",
+        "Une équipe d’assistance consulte plusieurs systèmes avant de répondre. Une piste ciblée serait un espace de travail qui respecte les droits d’accès, rassemble les enregistrements pertinents et prépare une réponse à valider par une personne."
+      ],
+      [
+        "Un parcours de commande connecté",
+        "Un commerçant rapproche manuellement les commandes de sa boutique et les mises à jour de l’entrepôt. Un premier périmètre possible relierait les événements de commande, les variations de stock et les responsables des exceptions sans remplacer tous les systèmes."
+      ],
+      [
+        "Un espace opérationnel plus clair",
+        "Une équipe opérationnelle coordonne le travail au moyen de messages et de feuilles de calcul. Un produit utile pourrait rendre les demandes, les responsabilités et l’historique des approbations visibles dans un même processus partagé."
+      ]
+    ]
+  },
+  "insights-guides": {
+    "name": "Analyses et guides",
+    "title": "Des réflexions utiles pour les décisions à venir.",
+    "intro": "Des lectures pratiques sur l’IA, les logiciels et la façon dont la technologie transforme une entreprise. Partez d’une question, examinez les compromis et choisissez une prochaine étape ciblée.",
+    "heading": "Quelques lectures. Une perspective plus claire.",
+    "items": [
+      [
+        "Choisir un processus pour l’IA",
+        "Commencez par une tâche répétée dont le contexte est accessible et le résultat vérifiable. Identifiez les modes de défaillance, les autorisations et des exemples d’évaluation avant de choisir le modèle ou le framework d’agents."
+      ],
+      [
+        "Moderniser par étapes",
+        "Cartographiez les parcours et les dépendances pris en charge par une application existante. Introduisez une fonctionnalité délimitée, vérifiez sa compatibilité et transférez un processus avant de planifier un remplacement plus large."
+      ],
+      [
+        "Rédiger un brief produit utile",
+        "Décrivez l’utilisateur, le problème et ce qui constitue un résultat utile. Consignez les contraintes et les inconnues séparément des fonctionnalités proposées pour que la phase d’exploration teste les bonnes hypothèses."
+      ]
+    ]
+  },
+  "industry-conversations": {
+    "name": "Échanges sectoriels",
+    "title": "De meilleures questions pour de meilleurs échanges.",
+    "intro": "Explorez des pistes de discussion pour les personnes qui prennent des décisions technologiques. Choisissez un sujet, puis apportez vos propres systèmes, contraintes et expériences à la conversation.",
+    "heading": "Prenez place. Apportez une vraie question.",
+    "items": [
+      [
+        "Où l’IA doit-elle intervenir dans le processus ?",
+        "Discutez des étapes répétitives, des décisions qui demandent du discernement et des sources du contexte nécessaire. Un échange utile se conclut par une expérimentation et une façon de l’évaluer."
+      ],
+      [
+        "Qu’est-ce qui justifie une modernisation ?",
+        "Examinez le coût des limites actuelles pour l’entreprise, le risque du changement et les dépendances qui doivent rester stables. Comparez une amélioration progressive à un remplacement plus vaste."
+      ],
+      [
+        "Comment une équipe partage-t-elle les responsabilités ?",
+        "Échangez sur les décisions, les revues et le passage en exploitation. Convenez de la façon de rendre les progrès visibles, de signaler les incertitudes et de déterminer qui peut prendre la prochaine décision."
+      ]
+    ]
+  },
+  "questions-answers": {
+    "name": "Questions et réponses",
+    "title": "De la clarté avant le premier engagement.",
+    "intro": "Un point de départ simple pour discuter du périmètre, de la collaboration et de la réalisation. Sélectionnez une question pour découvrir notre approche de l’échange.",
+    "heading": "Les questions à poser dès le départ.",
+    "items": [
+      [
+        "Que préparer pour un premier appel ?",
+        "Présentez le problème que vous souhaitez résoudre, les personnes concernées et les systèmes impliqués. Un brief existant est utile, mais des objectifs et des contraintes clairs comptent davantage qu’un cahier des charges achevé."
+      ],
+      [
+        "Comment convient-on du périmètre d’un projet ?",
+        "Nous discutons du résultat souhaité, des dépendances et des points incertains. La phase d’exploration peut aboutir à un périmètre ciblé, à des critères d’acceptation et à une orientation de réalisation à examiner avant la mise en œuvre."
+      ],
+      [
+        "Comment examinerons-nous l’avancement ?",
+        "Convenez d’un rythme de travail, de livrables visibles et des responsables des décisions. Utilisez des démonstrations, des contrôles qualité et des retours opérationnels pour évaluer le travail et définir la prochaine étape."
+      ]
+    ]
+  },
+  "about-artrigo": {
+    "name": "À propos d’Artrigo",
+    "title": "Une idée claire mérite une ingénierie réfléchie.",
+    "intro": "Artrigo réunit la réflexion produit et l’ingénierie logicielle dans une même conversation. Nous nous concentrons sur les liens entre l’entreprise, ses équipes et les systèmes qu’elles utilisent.",
+    "heading": "Notre façon de travailler.",
+    "items": [
+      [
+        "Rester proche du problème",
+        "Comprenez le travail avant de prescrire une technologie. Demandez ce que signifie la réussite pour les personnes qui utiliseront, exploiteront et maintiendront le résultat."
+      ],
+      [
+        "Rendre les décisions compréhensibles",
+        "Gardez les hypothèses, les compromis et les responsabilités visibles. Une décision technique utile doit pouvoir être discutée et mise en pratique par l’ensemble de l’équipe."
+      ],
+      [
+        "Construire en gardant la suite en vue",
+        "Intégrez la qualité, l’accessibilité et l’exploitation au travail. Laissez des fondations réfléchies qui pourront être examinées, maintenues et améliorées."
+      ]
+    ]
+  },
+  "how-we-work": {
+    "name": "Notre méthode de travail",
+    "title": "Des décisions partagées. Un travail visible.",
+    "intro": "Une relation de travail demande plus qu’une date de livraison. Convenez du problème, du mode de décision et de la façon dont vous examinerez ensemble les progrès.",
+    "heading": "Un cadre de travail partagé, sans boîte noire.",
+    "items": [
+      [
+        "Réunir les bonnes personnes",
+        "Identifiez les personnes qui comprennent le travail, celles qui peuvent décider et celles qui exploiteront le résultat. Gardez leurs responsabilités claires."
+      ],
+      [
+        "Tenir un registre commun des décisions",
+        "Consignez les hypothèses, les choix et les questions ouvertes. Examinez régulièrement un livrable concret afin que les retours arrivent à temps pour améliorer l’orientation."
+      ],
+      [
+        "Préparer la passation dès la construction",
+        "Convenez rapidement des responsabilités d’assistance, de la documentation et des attentes d’exploitation. Profitez de la préparation de la mise en production pour vérifier ce dont l’équipe a besoin pour exploiter et améliorer le système."
+      ]
+    ]
+  },
+  "our-expertise": {
+    "name": "Notre expertise",
+    "title": "Des disciplines différentes. Une direction réfléchie.",
+    "intro": "Réunissez la conception d’expérience, l’ingénierie logicielle et la réflexion opérationnelle. Choisissez les expertises selon le défi à relever plutôt que d’assembler une liste d’outils isolés.",
+    "heading": "Examiner le défi sous plusieurs angles.",
+    "items": [
+      [
+        "Produit et expérience",
+        "Explorez les besoins des utilisateurs, validez l’orientation et rendez les parcours importants concrets. Reliez les choix de recherche et de conception aux contraintes de mise en œuvre."
+      ],
+      [
+        "Logiciel et intelligence",
+        "Créez des applications faciles à maintenir, des données connectées et des fonctionnalités d’IA utiles. Définissez avec soin les limites des systèmes ainsi que les responsabilités d’évaluation et d’intégration."
+      ],
+      [
+        "Plateformes et exploitation",
+        "Reliez les fondations cloud, les plateformes métier et les pratiques de livraison. Intégrez la sécurité, l’observabilité et les responsabilités opérationnelles aux discussions sur l’architecture."
+      ]
+    ]
+  },
+  "technology-ecosystem": {
+    "name": "Notre écosystème technologique",
+    "title": "Choisir ce qui convient. Comprendre les compromis.",
+    "intro": "Une pile technologique est un ensemble de décisions concernant votre produit et votre environnement opérationnel. Explorez cet écosystème à travers les responsabilités que chaque élément doit assumer.",
+    "heading": "Des outils en contexte. Une architecture réfléchie.",
+    "items": [
+      [
+        "Expérience et application",
+        "React, Next.js et TypeScript peuvent servir à créer des expériences web accessibles. Pour le mobile, les choix peuvent inclure Flutter ou les plateformes natives, selon les besoins des appareils et l’équipe chargée de la maintenance."
+      ],
+      [
+        "Données et intelligence",
+        "Node.js, Python et PostgreSQL peuvent prendre en charge les services applicatifs et les flux de données. Les fournisseurs de modèles ainsi que les outils de recherche d’informations et d’évaluation doivent être choisis selon la tâche, les autorisations et les contraintes opérationnelles."
+      ],
+      [
+        "Cloud et livraison",
+        "AWS, Azure et Google Cloud proposent différentes fonctionnalités managées. Docker, les outils de CI/CD et d’observabilité doivent être choisis selon les besoins de déploiement, de rétablissement et les compétences de l’équipe d’exploitation."
+      ]
+    ]
+  }
+}

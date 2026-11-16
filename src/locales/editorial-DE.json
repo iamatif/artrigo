@@ -1,0 +1,382 @@
+{
+  "intelligent-automation": {
+    "name": "Intelligente Automatisierung",
+    "title": "Weniger Nachfassen. Mehr sinnvolle Arbeit.",
+    "intro": "Verbinden Sie die Übergaben zwischen Menschen, Informationen und Geschäftsanwendungen. Artrigo hilft Ihnen, sinnvolle Automatisierungen auszuwählen, ihre Grenzen festzulegen und Ausnahmen sichtbar zu halten.",
+    "heading": "Orientieren Sie sich an der Arbeit, nicht am Hype.",
+    "items": [
+      [
+        "Reibungsverluste erkennen",
+        "Suchen Sie nach wiederkehrenden Übergaben, doppelten Eingaben und Entscheidungen, die auf fehlende Informationen warten. Verstehen Sie die Kosten des aktuellen Prozesses, bevor Sie ein Automatisierungswerkzeug auswählen."
+      ],
+      [
+        "Regeln festlegen",
+        "Trennen Sie vorhersehbare Schritte von Entscheidungen, die Urteilsvermögen erfordern. Legen Sie Berechtigungen, Abläufe für Ausnahmen und den Punkt fest, an dem ein Mensch eine Aktion prüfen muss."
+      ],
+      [
+        "Fortschritt sichtbar machen",
+        "Verfolgen Sie erfolgreiche Abschlüsse, Ausnahmen und den Prüfaufwand. Beginnen Sie mit einem abgegrenzten Arbeitsablauf und entscheiden Sie anhand von Rückmeldungen aus dem Betrieb, was sich für eine Ausweitung eignet."
+      ]
+    ]
+  },
+  "legacy-modernization": {
+    "name": "Modernisierung bestehender Systeme",
+    "title": "Vorankommen, ohne von vorn anzufangen.",
+    "intro": "Ihre bestehenden Systeme enthalten wertvolles Geschäftswissen. Modernisieren Sie die Teile, die den Fortschritt begrenzen, und behalten Sie dabei wesentliche Betriebsabläufe und Informationen im Blick.",
+    "heading": "Eine Brücke zwischen heute und morgen.",
+    "items": [
+      [
+        "Die bestehende Systemlandschaft verstehen",
+        "Erfassen Sie Anwendungsabhängigkeiten, Integrationsvereinbarungen und die Abläufe, auf die Menschen angewiesen sind. Ermitteln Sie Risiken, die eine Neuentwicklung allein nicht beseitigen würde."
+      ],
+      [
+        "Einen sicheren Übergang schaffen",
+        "Führen Sie neben den bestehenden Systemen eine klar umrissene neue Funktion ein. Vereinbaren Sie Datenverantwortung, Kompatibilitätsprüfungen und einen Rückweg, bevor Sie einen Arbeitsablauf verlagern."
+      ],
+      [
+        "Mit Sicherheit außer Betrieb nehmen",
+        "Verlagern Sie den Datenverkehr gezielt, gleichen Sie Datensätze ab und beobachten Sie die tatsächliche Nutzung. Nehmen Sie alte Komponenten erst außer Betrieb, wenn die betrieblich Verantwortlichen den Ersatz überprüfen können."
+      ]
+    ]
+  },
+  "salesforce": {
+    "name": "Salesforce",
+    "title": "Eine Kundenbeziehung. Ein vernetztes Gesamtbild.",
+    "intro": "Führen Sie Vertrieb, Service und Kundeninformationen in einer CRM-Lösung zusammen, mit der Ihre Mitarbeitenden tatsächlich arbeiten können. Beginnen Sie beim Arbeitsablauf und richten Sie Salesforce danach aus.",
+    "heading": "Verbinden Sie jede Übergabe.",
+    "items": [
+      [
+        "Vertrieb mit Kontext",
+        "Definieren Sie die Zuständigkeit für Leads, die Phasen von Verkaufschancen und die Informationen, die für das nächste hilfreiche Gespräch nötig sind. Verbinden Sie CRM-Aktivitäten mit der Arbeitsweise Ihres Vertriebsteams."
+      ],
+      [
+        "Service mit Kontinuität",
+        "Geben Sie Supportteams die relevante Kundenhistorie und eine klare Fallzuweisung an die Hand. Verringern Sie den Aufwand, dieselbe Geschichte in getrennten Werkzeugen immer wieder zusammenzusetzen."
+      ],
+      [
+        "Integration mit klarer Verantwortung",
+        "Planen Sie den Abgleich von Datensätzen, Zugriffskontrollen und die Grenzen der Synchronisierung. Halten Sie Berichtsdefinitionen und Zuständigkeiten klar, wenn Salesforce mit anderen Systemen verbunden wird."
+      ]
+    ]
+  },
+  "microsoft-dynamics-365": {
+    "name": "Microsoft Dynamics 365",
+    "title": "Ein Unternehmen. Weniger isolierte Entscheidungen.",
+    "intro": "Verbinden Sie kundenbezogene und betriebliche Arbeitsabläufe mit Microsoft Dynamics 365. Machen Sie Daten, Zuständigkeiten und Entscheidungen zwischen Abteilungen leichter nachvollziehbar.",
+    "heading": "Erkennen Sie, wie das Unternehmen zusammenwirkt.",
+    "items": [
+      [
+        "Vom Kunden zum Betrieb",
+        "Verbinden Sie die Informationen zu Vertriebszusagen mit der Arbeit, die die ausführenden Teams leisten müssen. Definieren Sie, welches Geschäftssystem für jeden wichtigen Datensatz verantwortlich ist."
+      ],
+      [
+        "Finanzen mit Kontext",
+        "Planen Sie die Übergaben zwischen Transaktionen, Freigaben und Berichten. Stimmen Sie Geschäftsregeln ab, bevor Sie den Informationsfluss automatisieren."
+      ],
+      [
+        "Eine durchdachte Einführung",
+        "Wählen Sie einen klar begrenzten ersten Umfang, prüfen Sie reale Szenarien und bereiten Sie die operativen Teams vor. Integration und Akzeptanz verdienen dieselbe Aufmerksamkeit wie die Konfiguration."
+      ]
+    ]
+  },
+  "microsoft-power-platform": {
+    "name": "Microsoft Power Platform",
+    "title": "Kleine Werkzeuge. Spürbare Veränderungen.",
+    "intro": "Machen Sie aus einem wiederkehrenden Geschäftsproblem eine gezielte App, einen automatisierten Ablauf oder eine Berichtslösung. Power Platform funktioniert am besten mit klarer Verantwortung und sinnvollen Leitlinien.",
+    "heading": "Richten Sie das Werkzeug an der Aufgabe aus.",
+    "items": [
+      [
+        "Power Apps",
+        "Entwickeln Sie eine gezielte Benutzeroberfläche für Anfragen, Inspektionen oder Freigaben. Prüfen Sie die Nutzungserfahrung gemeinsam mit den Menschen, die die Arbeit erledigen, bevor Sie den Umfang erweitern."
+      ],
+      [
+        "Power Automate",
+        "Verbinden Sie Ereignisse und Übergaben mit einer ausdrücklich geregelten Ausnahmebehandlung. Prüfen Sie Berechtigungen, Konnektorgrenzen und Supportzuständigkeiten, bevor ein Ablauf unverzichtbar wird."
+      ],
+      [
+        "Power BI",
+        "Führen Sie vereinbarte Kennzahlen in einer gemeinsamen Berichtsansicht zusammen. Legen Sie Datendefinitionen und Erwartungen an die Aktualisierung fest, damit ein Dashboard teamübergreifend eine gemeinsame Gesprächsgrundlage bietet."
+      ]
+    ]
+  },
+  "shopify-ecommerce": {
+    "name": "Shopify & E-Commerce",
+    "title": "Ein Onlineshop, der über die Ladenfront hinaus funktioniert.",
+    "intro": "Verbinden Sie Produktsuche, Kaufabschluss und die Abläufe hinter einer Bestellung. Artrigo plant Shopify-Erlebnisse rund um Ihre Kunden und die Systeme, die sie bedienen.",
+    "heading": "Betrachten Sie die gesamte Bestellung.",
+    "items": [
+      [
+        "Produkte entdecken",
+        "Helfen Sie Kunden, durch eine sinnvolle Struktur, klare Inhalte und eine auf verschiedenen Geräten gut nutzbare Navigation das passende Produkt zu finden. Klären Sie die Anforderungen des Onlineshops, bevor Sie die Komplexität erhöhen."
+      ],
+      [
+        "Ein durchdachter Kaufabschluss",
+        "Prüfen Sie Zahlungs-, Liefer- und Kontoabläufe auf echten Geräten. Halten Sie Kaufentscheidungen verständlich und testen Sie die Ausnahmefälle, die eine Bestellung unterbrechen."
+      ],
+      [
+        "Abläufe nach dem Kauf",
+        "Verbinden Sie Bestellungen mit Lagerbestand, Auftragsabwicklung und Kundensupport. Planen Sie Synchronisierung, Wiederholungsversuche und Verantwortlichkeiten, damit das Erlebnis auch nach dem Kaufabschluss zuverlässig bleibt."
+      ]
+    ]
+  },
+  "financial-services": {
+    "name": "Finanzdienstleistungen",
+    "title": "Vertrauen entsteht in jeder Interaktion.",
+    "intro": "Digitale Finanzdienstleistungen sind auf klare Abläufe und sorgfältige technische Umsetzung angewiesen. Planen Sie Kundenerlebnisse, betriebliche Arbeitsabläufe und Datengrenzen gemeinsam.",
+    "heading": "Vom ersten Kontakt zum fundierten Handeln.",
+    "items": [
+      [
+        "Ein verständlicher erster Schritt",
+        "Machen Sie Anforderungen bei der Aufnahme neuer Kunden, den Fortschritt und die nächsten Schritte deutlich. Prüfen Sie Identität, Zugriff und Dokumentenverarbeitung anhand der Anforderungen Ihres Betriebsumfelds."
+      ],
+      [
+        "Eine nachvollziehbare Entscheidung",
+        "Geben Sie Teams den Kontext, den sie zur Prüfung eines Antrags oder einer Ausnahme benötigen. Bewahren Sie den Entscheidungsverlauf und legen Sie fest, wann ein Mensch den nächsten Schritt genehmigen muss."
+      ],
+      [
+        "Ein verlässliches Bild des Betriebs",
+        "Verbinden Sie relevante Informationen, ohne deren Herkunft oder Zuständigkeit zu verschleiern. Planen Sie Zugriff, Überwachung und Abgleich entsprechend den Folgen eines fehlgeschlagenen Arbeitsablaufs."
+      ]
+    ]
+  },
+  "healthcare": {
+    "name": "Gesundheitswesen",
+    "title": "Technologie mit dem Menschen im Mittelpunkt.",
+    "intro": "Erleichtern Sie Patienten, Behandlungsteams und der Verwaltung den Zugang zu den benötigten Informationen. Gestalten Sie die Abläufe anhand der Realität der Versorgung und der bestehenden Systeme.",
+    "heading": "Halten Sie den nächsten Schritt klar.",
+    "items": [
+      [
+        "Zugang für Patienten",
+        "Helfen Sie Menschen zu verstehen, welche Informationen erforderlich sind, welchen Status eine Anfrage hat und was als Nächstes geschieht. Berücksichtigen Sie Barrierefreiheit und die Umstände, unter denen ein Patient den Dienst nutzt."
+      ],
+      [
+        "Versorgung koordinieren",
+        "Verbinden Sie die Übergaben zwischen Menschen und Systemen. Legen Sie fest, wer welche Informationen sieht, wer für eine Aufgabe verantwortlich ist und wie eine ausbleibende Antwort sichtbar wird."
+      ],
+      [
+        "Verantwortungsvoller Informationsfluss",
+        "Erfassen Sie vor der Umsetzung die Anforderungen an Datenzugriff, Aufbewahrung und Integration. Prüfen Sie die geltenden Verpflichtungen im Gesundheitswesen und zum Datenschutz gemeinsam mit den zuständigen Fachleuten."
+      ]
+    ]
+  },
+  "retail-ecommerce": {
+    "name": "Einzelhandel & E-Commerce",
+    "title": "Ein Kunde. Viele entscheidende Momente.",
+    "intro": "Betrachten Sie digitales Einkaufen und Handelsabläufe gemeinsam. Verbinden Sie Kundenerwartungen mit Produktinformationen, Lagerbestand und Auftragsabwicklung.",
+    "heading": "Verbinden Sie die Momente zwischen den Kanälen.",
+    "items": [
+      [
+        "Mit Sicherheit entdecken",
+        "Halten Sie Produktinformationen an allen Kontaktpunkten verständlich und hilfreich. Richten Sie Navigation, Inhalte und Verfügbarkeit an den Fragen aus, die Kunden beantwortet haben müssen."
+      ],
+      [
+        "Ohne Ungewissheit kaufen",
+        "Prüfen Sie Entscheidungen zu Warenkorb, Zahlung und Lieferung als zusammenhängenden Ablauf. Testen Sie vor einer Veröffentlichung Geräteunterschiede, nicht verfügbare Artikel und unterbrochene Transaktionen."
+      ],
+      [
+        "Das Versprechen einlösen",
+        "Verbinden Sie Bestellstatus und Bestandsänderungen mit den Teams, die für die Auftragsabwicklung verantwortlich sind. Machen Sie Ausnahmen so früh sichtbar, dass jemand handeln kann."
+      ]
+    ]
+  },
+  "logistics-supply-chain": {
+    "name": "Logistik & Lieferkette",
+    "title": "Wissen, was sich bewegt. Sehen, wo Sie gefragt sind.",
+    "intro": "Machen Sie aus betrieblichen Ereignissen ein klareres Bild von Bestellungen, Sendungen und Zuständigkeiten. Schaffen Sie Transparenz rund um die Entscheidungen, die Ihre Teams täglich treffen.",
+    "heading": "Machen Sie die Übergaben sichtbar.",
+    "items": [
+      [
+        "Ein gemeinsamer Ereignisverlauf",
+        "Vereinbaren Sie, welche Ereignisse über Lager, Transportunternehmen und Kundensysteme hinweg wichtig sind. Bewahren Sie Zeitstempel, Quellen und die Bedeutung jedes Betriebsstatus."
+      ],
+      [
+        "Ausnahmen mit klarer Zuständigkeit",
+        "Zeigen Sie die Sendung oder Aufgabe, die Aufmerksamkeit erfordert, statt nur ein weiteres Diagramm. Definieren Sie die Zuständigkeiten für Eskalation, Bestätigung und Wiederherstellung."
+      ],
+      [
+        "Vernetzte Planung",
+        "Führen Sie Bestellungen, Kapazitäten und Lagerbestand in einer gemeinsamen Planungsansicht zusammen. Beginnen Sie mit verlässlichen Eingangsdaten und prüfen Sie, wo eine Empfehlung menschliches Urteilsvermögen erfordert."
+      ]
+    ]
+  },
+  "technology-saas": {
+    "name": "Technologie & SaaS",
+    "title": "Entwickeln Sie ein Produkt mit Raum für das, was kommt.",
+    "intro": "Verbinden Sie Produkterlebnis, geschäftliche Anforderungen und technische Entscheidungen. Artrigo hilft SaaS-Teams, gezielte Funktionen zu entwickeln und dabei den Betrieb im Blick zu behalten.",
+    "heading": "Denken Sie über die nächste Funktion hinaus.",
+    "items": [
+      [
+        "Eine klare Produktgrenze",
+        "Definieren Sie die Zielgruppe, die zu erledigende Aufgabe und die kleinste sinnvolle Funktion. Überprüfen Sie unsichere Annahmen, bevor Sie die Funktionsliste erweitern."
+      ],
+      [
+        "Eine verlässliche Plattform",
+        "Planen Sie Mandantengrenzen, Zugriff und Integrationsvereinbarungen bewusst. Machen Sie Zuständigkeiten für Veröffentlichung, Überwachung und Wiederherstellung zum Bestandteil der Produktarchitektur."
+      ],
+      [
+        "Eine fundierte nächste Version",
+        "Priorisieren Sie Verbesserungen anhand von Produktrückmeldungen und Erkenntnissen aus dem Betrieb. Unterscheiden Sie zwischen Kundenwünschen und dem zugrunde liegenden Problem, das gelöst werden muss."
+      ]
+    ]
+  },
+  "project-stories": {
+    "name": "Projektgeschichten",
+    "title": "Was könnte ein besseres System ermöglichen?",
+    "intro": "Entdecken Sie drei beispielhafte Projektbeschreibungen. Diese Szenarien zeigen, wie aus einem Geschäftsproblem ein gezieltes technisches Gespräch entstehen kann; es handelt sich nicht um abgeschlossene Kundenfallstudien.",
+    "heading": "Öffnen Sie eine Projektbeschreibung. Prüfen Sie die Entscheidungen.",
+    "items": [
+      [
+        "Ein Service Desk mit Kontext",
+        "Ein Supportteam durchsucht vor einer Antwort mehrere Systeme. Ein gezielter Ansatz wäre ein Arbeitsbereich, der Berechtigungen berücksichtigt, relevante Datensätze zusammenführt und eine Antwort zur menschlichen Prüfung entwirft."
+      ],
+      [
+        "Ein vernetzter Bestellablauf",
+        "Ein Händler gleicht Bestellungen aus dem Onlineshop und Lageraktualisierungen manuell ab. Ein möglicher erster Umfang verbindet Bestellereignisse, Bestandsänderungen und die Zuständigkeit für Ausnahmen, ohne jedes System zu ersetzen."
+      ],
+      [
+        "Ein übersichtlicherer Arbeitsbereich für den Betrieb",
+        "Ein operatives Team koordiniert seine Arbeit über Nachrichten und Tabellen. Ein hilfreiches Produkt könnte Anfragen, Zuständigkeiten und den Freigabeverlauf in einem gemeinsamen Arbeitsablauf sichtbar machen."
+      ]
+    ]
+  },
+  "insights-guides": {
+    "name": "Einblicke & Leitfäden",
+    "title": "Hilfreiche Gedanken für die kommenden Entscheidungen.",
+    "intro": "Praxisnahe Lektüre zu KI, Software und der Art, wie Technologie ein Unternehmen verändert. Beginnen Sie mit einer Frage, prüfen Sie die Abwägungen und wählen Sie einen gezielten nächsten Schritt.",
+    "heading": "Ein kleiner Leseraum. Eine klarere Perspektive.",
+    "items": [
+      [
+        "Einen KI-Arbeitsablauf auswählen",
+        "Beginnen Sie mit einer wiederkehrenden Aufgabe, deren Kontext zugänglich und deren Ergebnis überprüfbar ist. Ermitteln Sie Fehlermöglichkeiten, Berechtigungen und Bewertungsbeispiele, bevor Sie das Modell oder das Agenten-Framework auswählen."
+      ],
+      [
+        "Schrittweise modernisieren",
+        "Erfassen Sie die Abläufe und Abhängigkeiten, die eine bestehende Anwendung unterstützt. Führen Sie eine abgegrenzte Funktion ein, prüfen Sie die Kompatibilität und verlagern Sie einen Arbeitsablauf, bevor Sie einen umfassenderen Ersatz planen."
+      ],
+      [
+        "Eine hilfreiche Produktbeschreibung verfassen",
+        "Beschreiben Sie den Nutzer, das Problem und wie ein sinnvolles Ergebnis aussieht. Führen Sie Einschränkungen und offene Fragen getrennt von vorgeschlagenen Funktionen auf, damit die Erkundungsphase die richtigen Annahmen prüfen kann."
+      ]
+    ]
+  },
+  "industry-conversations": {
+    "name": "Branchengespräche",
+    "title": "Bessere Fragen führen zu besseren Gesprächen.",
+    "intro": "Entdecken Sie Gesprächsimpulse für Menschen, die Technologieentscheidungen treffen. Wählen Sie ein Thema und bringen Sie Ihre eigenen Systeme, Einschränkungen und Erfahrungen in das Gespräch ein.",
+    "heading": "Nehmen Sie Platz. Bringen Sie eine konkrete Frage mit.",
+    "items": [
+      [
+        "Wo sollte KI in den Arbeitsablauf einsteigen?",
+        "Besprechen Sie, welche Schritte sich wiederholen, welche Entscheidungen Urteilsvermögen erfordern und wo der notwendige Kontext vorliegt. Ein hilfreiches Gespräch endet mit einem Experiment und einer Möglichkeit, es zu bewerten."
+      ],
+      [
+        "Wann lohnt sich eine Modernisierung?",
+        "Prüfen Sie die geschäftlichen Kosten aktueller Einschränkungen, die Risiken einer Veränderung und die Abhängigkeiten, die stabil bleiben müssen. Vergleichen Sie schrittweise Verbesserungen mit einem umfassenderen Ersatz."
+      ],
+      [
+        "Wie teilt ein Team die Verantwortung?",
+        "Besprechen Sie Entscheidungen, Prüfungen und die Übergabe in den Betrieb. Vereinbaren Sie, wie Fortschritt sichtbar wird, wie Unsicherheit angesprochen wird und wer die nächste Entscheidung treffen kann."
+      ]
+    ]
+  },
+  "questions-answers": {
+    "name": "Fragen & Antworten",
+    "title": "Klarheit vor der ersten Zusage.",
+    "intro": "Ein unkomplizierter Ausgangspunkt für Projektumfang, Zusammenarbeit und Umsetzung. Wählen Sie eine Frage aus, um zu erfahren, wie wir das Gespräch angehen.",
+    "heading": "Fragen, die sich früh zu stellen lohnen.",
+    "items": [
+      [
+        "Was sollten wir zum ersten Gespräch mitbringen?",
+        "Bringen Sie das Problem mit, das Sie lösen möchten, sowie Informationen zu den betroffenen Menschen und beteiligten Systemen. Eine vorhandene Projektbeschreibung hilft, doch klare Ziele und Einschränkungen sind wichtiger als eine fertige Spezifikation."
+      ],
+      [
+        "Wie wird der Projektumfang vereinbart?",
+        "Wir besprechen das gewünschte Ergebnis, Abhängigkeiten und unsichere Aspekte. Eine Erkundungsphase kann einen gezielten Umfang, Abnahmekriterien und eine Umsetzungsrichtung hervorbringen, die vor der Implementierung geprüft werden."
+      ],
+      [
+        "Wie prüfen wir den Fortschritt?",
+        "Vereinbaren Sie einen Arbeitsrhythmus, sichtbare Ergebnisse und verantwortliche Entscheidungsträger. Nutzen Sie Vorführungen, Qualitätsprüfungen und Rückmeldungen aus dem Betrieb, um die Arbeit zu bewerten und den nächsten Entwicklungsschritt zu gestalten."
+      ]
+    ]
+  },
+  "about-artrigo": {
+    "name": "Über Artrigo",
+    "title": "Eine klare Idee verdient durchdachte technische Umsetzung.",
+    "intro": "Artrigo bringt Produktdenken und Softwareentwicklung in einem gemeinsamen Gespräch zusammen. Wir konzentrieren uns auf die Verbindungen zwischen dem Unternehmen, seinen Menschen und den Systemen, die sie nutzen.",
+    "heading": "So entscheiden wir uns zu arbeiten.",
+    "items": [
+      [
+        "Nah am Problem bleiben",
+        "Verstehen Sie die Arbeit, bevor Sie die Technologie vorgeben. Fragen Sie, was Erfolg für die Menschen bedeutet, die das Ergebnis nutzen, betreiben und warten werden."
+      ],
+      [
+        "Entscheidungen verständlich machen",
+        "Halten Sie Annahmen, Abwägungen und Zuständigkeiten sichtbar. Eine hilfreiche technische Entscheidung sollte vom gesamten Team besprochen und umgesetzt werden können."
+      ],
+      [
+        "Mit Blick auf den nächsten Schritt entwickeln",
+        "Betrachten Sie Qualität, Barrierefreiheit und Betrieb als Teil der Arbeit. Hinterlassen Sie eine durchdachte Grundlage, die überprüft, gewartet und verbessert werden kann."
+      ]
+    ]
+  },
+  "how-we-work": {
+    "name": "So arbeiten wir",
+    "title": "Gemeinsame Entscheidungen. Sichtbare Arbeit.",
+    "intro": "Eine Zusammenarbeit braucht mehr als einen Liefertermin. Vereinbaren Sie gemeinsam das Problem, die Entscheidungswege und die Art, wie der Fortschritt geprüft wird.",
+    "heading": "Eine Arbeitsvereinbarung, keine Blackbox.",
+    "items": [
+      [
+        "Die richtigen Menschen zusammenbringen",
+        "Ermitteln Sie die Menschen, die die Arbeit verstehen, Entscheidungen treffen können und das Ergebnis betreiben werden. Halten Sie ihre Zuständigkeiten klar."
+      ],
+      [
+        "Entscheidungen gemeinsam dokumentieren",
+        "Halten Sie Annahmen, Entscheidungen und offene Fragen schriftlich fest. Prüfen Sie regelmäßig ein konkretes Ergebnis, damit Rückmeldungen eintreffen, solange sie die Richtung noch verbessern können."
+      ],
+      [
+        "Die Übergabe während der Entwicklung vorbereiten",
+        "Vereinbaren Sie frühzeitig Supportzuständigkeiten, Dokumentation und Erwartungen an den Betrieb. Nutzen Sie die Veröffentlichungsvorbereitung, um zu prüfen, was das Team für den Betrieb und die Verbesserung des Systems braucht."
+      ]
+    ]
+  },
+  "our-expertise": {
+    "name": "Unsere Expertise",
+    "title": "Verschiedene Disziplinen. Eine durchdachte Richtung.",
+    "intro": "Bringen Sie Erlebnisgestaltung, Softwareentwicklung und betriebliches Denken zusammen. Wählen Sie Expertise passend zur Herausforderung, statt eine isolierte Liste von Werkzeugen zusammenzustellen.",
+    "heading": "Betrachten Sie die Herausforderung aus mehreren Blickwinkeln.",
+    "items": [
+      [
+        "Produkt und Nutzungserlebnis",
+        "Erkunden Sie Nutzerbedürfnisse, überprüfen Sie die Richtung und machen Sie wichtige Abläufe greifbar. Verbinden Sie Forschungs- und Gestaltungsentscheidungen mit den Einschränkungen der Umsetzung."
+      ],
+      [
+        "Software und Intelligenz",
+        "Entwickeln Sie wartbare Anwendungen, vernetzte Daten und sinnvolle KI-Funktionen. Definieren Sie Systemgrenzen, Bewertung und Integrationszuständigkeiten bewusst."
+      ],
+      [
+        "Plattformen und Betrieb",
+        "Verbinden Sie Cloud-Grundlagen, Geschäftsplattformen und Auslieferungspraktiken. Beziehen Sie Sicherheit, Beobachtbarkeit und betriebliche Verantwortung in die Architekturdiskussion ein."
+      ]
+    ]
+  },
+  "technology-ecosystem": {
+    "name": "Unser Technologie-Ökosystem",
+    "title": "Passendes auswählen. Abwägungen verstehen.",
+    "intro": "Ein Technologie-Stack ist eine Reihe von Entscheidungen über Ihr Produkt und Ihr Betriebsumfeld. Erkunden Sie das Ökosystem anhand der Aufgaben, die jeder Teil übernehmen muss.",
+    "heading": "Werkzeuge im Kontext. Architektur mit klarer Absicht.",
+    "items": [
+      [
+        "Nutzungserlebnis und Anwendung",
+        "React, Next.js und TypeScript können barrierefreie Weberlebnisse unterstützen. Für mobile Anwendungen kommen je nach Geräteanforderungen und dem für die Wartung zuständigen Team Flutter oder native Plattformen infrage."
+      ],
+      [
+        "Daten und Intelligenz",
+        "Node.js, Python und PostgreSQL können Anwendungsdienste und Datenabläufe unterstützen. Modellanbieter sowie Werkzeuge für Informationsabruf und Bewertung sollten sich nach der Aufgabe, den Berechtigungen und den betrieblichen Einschränkungen richten."
+      ],
+      [
+        "Cloud und Bereitstellung",
+        "AWS, Azure oder Google Cloud bieten unterschiedliche verwaltete Funktionen. Docker, CI/CD und Werkzeuge zur Beobachtbarkeit sollten anhand der Bereitstellungsanforderungen, der Wiederherstellung und der Fähigkeiten des Betriebsteams ausgewählt werden."
+      ]
+    ]
+  }
+}
