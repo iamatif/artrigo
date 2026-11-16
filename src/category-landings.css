@@ -20,3 +20,5 @@ html[dir=rtl] .cl-sector-veil{background:linear-gradient(270deg,#062033f5,#06203
 .cl-capability-grid>a{align-items:stretch}.cl-capability-grid>a>svg{align-self:start}.cl-capability-grid h3,.cl-capability-grid p,.cl-capability-grid a>span{min-width:0;max-width:100%;overflow-wrap:break-word}
 
 .cl-cover-copy>strong{min-width:0;max-width:100%;overflow-wrap:break-word}.cl-layout .ep-related a>span{overflow-wrap:break-word}
+
+@media(max-width:700px){.cl-path-window>svg{width:70%;left:15%;transform:rotate(15deg)}}

@@ -1,5 +1,5 @@
 declare const __ARTRIGO_SITE_URL__:string;
-import AR from './locales/AR.json';import DE from './locales/DE.json';import FR from './locales/FR.json';
+import {dictionaryData} from './localeData';
 import{serviceSlugs,serviceContent,isServicePage,type PageId,type ServicePageId}from'./serviceContent';
 import {siteRoutes,siteRoute,sitePageImages,editorialEnglish,type SitePageId} from './sitePageContent';
 import {editorialTranslations} from './sitePageTranslations';
@@ -26,7 +26,7 @@ DE:{title:'Application Engineering & Softwareentwicklung | Artrigo',description:
 FR:{title:'Ingénierie applicative et logiciels sur mesure | Artrigo',description:'Développez vos applications, plateformes web et systèmes métier avec Artrigo. Découvrez l’ingénierie applicative, la modernisation, les intégrations et la livraison.',name:'Ingénierie applicative'}
 }
 };
-const translations:Record<string,Record<string,string>>={AR,DE,FR};
+const translations=dictionaryData;
 const serviceMeta=(page:ServicePageId,code:string)=>{const c=serviceContent[page],t=(s:string)=>translations[code]?.[s.replace(/\s+/g,' ').trim()]||s;return serviceCopy[page]?.[code]||{title:t(c.name)+' | Artrigo',name:t(c.name),description:t(c.intro)}};
 export const pageIds:PageId[]=['home',...serviceSlugs,...siteRoutes.map(r=>r[0])];
 const editorialMeta=(page:SitePageId,code:string)=>{const c=editorialTranslations[code]?.[page]||editorialEnglish[page];return {title:c.name+' | Artrigo',name:c.name,description:c.intro}};

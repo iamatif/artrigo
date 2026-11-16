@@ -1,8 +1,8 @@
 import {Children,Fragment,cloneElement,createContext,isValidElement,useContext,useLayoutEffect,useMemo,type ReactNode,type ReactElement,type FormEvent} from 'react';
 import{updateSeo,type PageId}from'./seo';
-import AR from './locales/AR.json';import DE from './locales/DE.json';import FR from './locales/FR.json';
+import {dictionaryData} from './localeData';
 export type Locale='EN'|'AR'|'DE'|'FR';
-const dictionaries:Record<string,Record<string,string>>={EN:{},AR,DE,FR};
+const dictionaries=dictionaryData;
 export const normalizeText=(value:string)=>value.replace(/\s+/g,' ').trim();
 const preserved=new Set(['ARTRIGO','Artrigo','artrigo','Microsoft','Salesforce','Shopify','AWS','React','node','.js','EN','AR','DE','FR','English','Arabic','German','French','Deutsch','Français','Umar Rana','Junaid Rehmat','Irfan Malik','Yasir Barkat','Google Cloud','React & Next.js','Next.js','Node.js','Python','Docker & Kubernetes','PostgreSQL','TypeScript','Flutter','Docker','Kubernetes','Tailwind CSS','GraphQL','Redis','Git']);
 export function translateText(value:string,locale:string):string{const key=normalizeText(value);if(!key||locale==='EN'||preserved.has(key))return value;const translated=dictionaries[locale]?.[key];if(!translated)return value;const leading=value.match(/^\s*/)?.[0]||'',trailing=value.match(/\s*$/)?.[0]||'';return leading+translated+trailing}
